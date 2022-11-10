@@ -1,0 +1,10 @@
+Three High-Level Metrics: https://www.finehomebuilding.com/2017/04/03/3-high-level-metrics#:~:text=%2AHigh%20Level%20Metric%20%E2%80%93%20a%20key%20performance%20indicator,construction%20business.%20KPI%20%231%20%E2%80%93%20Revenue%20Per%20Employee
+16 Useful Metrics: https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/17/16-high-level-metrics-every-business-should-track/?sh=2d68ab64c460
+Power BI Tips and Tricks: https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tips-and-tricks-for-creating-reports
+Power BI Tips: https://powerbi.tips/
+Best Power BI: https://zebrabi.com/top-power-bi-dashboard-tips-and-tricks/
+How to create and use slicer: https://spreadsheeto.com/power-bi-slicers/#:~:text=With%20a%20Power%20BI%20slicer%2C%20you%20can%20visually,up%20visuals%20when%20making%20a%20Power%20BI%20report.
+Slicer Tutorials: https://www.educba.com/slicers-in-power-bi/
+Power BI Mapping Techniques: https://hevodata.com/learn/power-bi-mapping/
+Connecting: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-report-lifecycle-datasets
+How to Connect to an Analysis Service: https://www.sqlservercentral.com/articles/how-to-connect-to-an-analysis-services-database-in-power-bi
