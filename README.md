@@ -4,6 +4,7 @@ This project is based on Data Visualization using Power BI. Thoughout this porje
 
 # About this repository:
 Attached to this repository, you'll find a .pbix file containing my report on Device Monitoring.
+<br />A excel file is also provided. This file was used to import the data it contains into my Power BI report.
 <br />A reference list containing all the relevant URL's that was used to assist with completing this project is also provided.
 <br />A link is provided below to the report that I have created using Power BI.
 
